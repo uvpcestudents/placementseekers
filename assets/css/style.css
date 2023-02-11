@@ -160,6 +160,10 @@ section{
     min-height: 10vh;
 }
 
+#announcement{
+    min-height: 10vh;
+}
+
 header{
     width: 100%;
     display: flex;
