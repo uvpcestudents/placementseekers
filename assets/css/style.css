@@ -156,6 +156,9 @@ section{
     padding: 1rem 7%;
     padding-top: 6rem;
 }
+#material{
+    min-height: 10vh;
+}
 
 header{
     width: 100%;
